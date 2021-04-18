@@ -1,0 +1,11 @@
+C:\Users\Adi Beslagic\Desktop\progXO\progXO\bin\Release\progXO.exe.manifest
+C:\Users\Adi Beslagic\Desktop\progXO\progXO\bin\Release\progXO.application
+C:\Users\Adi Beslagic\Desktop\progXO\progXO\bin\Release\progXO.exe
+C:\Users\Adi Beslagic\Desktop\progXO\progXO\bin\Release\progXO.pdb
+C:\Users\Adi Beslagic\Desktop\progXO\progXO\obj\x86\Release\progXO.progXO.resources
+C:\Users\Adi Beslagic\Desktop\progXO\progXO\obj\x86\Release\progXO.Properties.Resources.resources
+C:\Users\Adi Beslagic\Desktop\progXO\progXO\obj\x86\Release\progXO.csproj.GenerateResource.Cache
+C:\Users\Adi Beslagic\Desktop\progXO\progXO\obj\x86\Release\progXO.exe.manifest
+C:\Users\Adi Beslagic\Desktop\progXO\progXO\obj\x86\Release\progXO.application
+C:\Users\Adi Beslagic\Desktop\progXO\progXO\obj\x86\Release\progXO.exe
+C:\Users\Adi Beslagic\Desktop\progXO\progXO\obj\x86\Release\progXO.pdb
