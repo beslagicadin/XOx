@@ -35,4 +35,4 @@ A desktop Tic Tac Toe game built with Visual C# and Windows Forms.
 
 ## License
 
-This project is licensed under the [GNU General Public License v3.0](LICENSE.txt).
+This software is all rights reserved. Use, copying, modification, or distribution requires prior written permission from the author. See the [LICENSE](LICENSE.txt) file for full terms or contact [beslagicadin@gmail.com](mailto:beslagicadin@gmail.com) to request permission.
